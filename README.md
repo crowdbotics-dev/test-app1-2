@@ -59,7 +59,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-2fa](backend/modules)
-- [django-drive](backend/modules)
 - [django-slack](backend/modules)
 - [django-zoom-info](backend/modules)
 
