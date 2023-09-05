@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-2fa](backend/modules)
 - [django-drive](backend/modules)
 - [django-slack](backend/modules)
+- [django-zoom-info](backend/modules)
 
 # Getting started: Frontend
 
