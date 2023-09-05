@@ -34,3 +34,4 @@ pipenv = "*"
 django-import-export = "*"
 drf-spectacular = "~=0.26.4"
 cb-django-2fa = {editable = true, path = "./modules/django_2fa"}
+cb-django-drive = {editable = true, path = "./modules/django_drive"}
